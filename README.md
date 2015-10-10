@@ -9,13 +9,20 @@ This project aims to design and implement a MIDI recorder and player using an At
 System requirements
 
 Hardware:
+
 Atmel STK500 starter kit (http://www.atmel.com/tools/stk500.aspx)
+
 ATmega644 microcontroller (http://www.atmel.com/Images/doc2593.pdf)
+
 STUDIOLOGIC MIDI keyboard (model: CMK137)
+
 SD Card (2-8Gb formatted as FAT32)
+
 Program developed by C/C++: see attached code for details.
 
+
 Features:
+
 A complete FAT system was established and the program provides the menu for different operations, including play, record and check SD card status. User can navigate the whole system by pressing the buttons. Please see Figure 1 for more details. 
 Check SD card
 When the device is on, first thing is to check if SD card is detected and the SD card has a format of FAT32. If not, the program stops. If yes, program proceeds to main menu, which includes Record, Play and SD Card.
