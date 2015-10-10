@@ -2,7 +2,7 @@
 
 Design and implementation of a MIDI recorder and player on Atmel STK500 with ATmega644 
 
-(team member: Xiaozhe Shen)
+(other team member: Xiaozhe Shen)
 
 Overview
 
