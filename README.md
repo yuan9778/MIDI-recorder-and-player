@@ -7,11 +7,12 @@ Design and implementation of a MIDI recorder and player on Atmel STK500 with ATm
 This project aims to design and implement a MIDI recorder and player using an Atmel STK500 board with an ATmega644 microcontroller. Devices attached to the STK500 include a MIDI keyboard via USART, SD card via SPI, a speaker and a LCD screen. A FAT32 system was developed to read or write data from or to SD card. Using these devices with the program developed from this project, users are able to record the MIDI tracks in SD card by playing the keyboard. The MIDI track then can be played on the device. In addition, MIDI tracks from other source (e.g. Internet) can be played on this device, and MIDI tracks recorded from the device can be played on computer. 
 
 **System requirements**  
-_Hardware:_  
+_Hardware:_
 * Atmel STK500 starter kit (http://www.atmel.com/tools/stk500.aspx)
 * ATmega644 microcontroller (http://www.atmel.com/Images/doc2593.pdf)
 * STUDIOLOGIC MIDI keyboard (model: CMK137)
-* SD Card (2-8Gb formatted as FAT32)  
+* SD Card (2-8Gb formatted as FAT32)
+
 _Program developed by C/C++._
 
 **Features**  
