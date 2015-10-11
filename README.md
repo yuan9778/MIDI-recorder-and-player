@@ -30,7 +30,7 @@ SD card
 In this menu, user can check the size of each file, delete the file or check the free/total size of the SD card.
 
 **References**  
-1. STK500 User Guide (http://www.atmel.com/Images/doc1925.pdf)
+ 1. STK500 User Guide (http://www.atmel.com/Images/doc1925.pdf)
 2. ATmega644 instruction (http://www.atmel.com/Images/doc2593.pdf)
 3. AVR-LibC user manual (http://nongnu.org/avr-libc/user-manual/)
 4. FAT32 system
