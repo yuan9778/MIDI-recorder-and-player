@@ -31,12 +31,12 @@ In this menu, user can check the size of each file, delete the file or check the
 
 **References**  
  1. STK500 User Guide (http://www.atmel.com/Images/doc1925.pdf)
-2. ATmega644 instruction (http://www.atmel.com/Images/doc2593.pdf)
-3. AVR-LibC user manual (http://nongnu.org/avr-libc/user-manual/)
-4. FAT32 system
-http://msdn.microsoft.com/en-us/library/windows/hardware/gg463080.aspx
+ 2. ATmega644 instruction (http://www.atmel.com/Images/doc2593.pdf)
+ 3. AVR-LibC user manual (http://nongnu.org/avr-libc/user-manual/)
+ 4. FAT32 system
+* http://msdn.microsoft.com/en-us/library/windows/hardware/gg463080.aspx
 https://www.cs.drexel.edu/~jjohnson/2012-13/fall/cs370/resources/File%20Allocation%20Table.pdf
 http://www.compuphase.com/mbr_fat.htm
 http://www.pjrc.com/tech/8051/ide/fat32.html
-5. AVRDUDE - AVR Downloader/UploaDEr (http://www.nongnu.org/avrdude/)
-6. The Complete MIDI 1.0 Detailed Specification. The MIDI Manufacturers Association, Los Angeles, CA.
+ 5. AVRDUDE - AVR Downloader/UploaDEr (http://www.nongnu.org/avrdude/)
+ 6. The Complete MIDI 1.0 Detailed Specification. The MIDI Manufacturers Association, Los Angeles, CA.
