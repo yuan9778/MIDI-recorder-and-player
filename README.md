@@ -18,7 +18,7 @@ Hardware:
 
 Program developed by C/C++.
 
-**Features:**  
+**Features**  
 A complete FAT system was established and the program provides the menu for different operations, including play, record and check SD card status. User can navigate the whole system by pressing the buttons. Please see Figure 1 for more details. 
 Check SD card
 When the device is on, first thing is to check if SD card is detected and the SD card has a format of FAT32. If not, the program stops. If yes, program proceeds to main menu, which includes Record, Play and SD Card.
