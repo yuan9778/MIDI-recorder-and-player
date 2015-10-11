@@ -11,7 +11,7 @@ _Hardware:_
 * Atmel STK500 starter kit (http://www.atmel.com/tools/stk500.aspx)
 * ATmega644 microcontroller (http://www.atmel.com/Images/doc2593.pdf)
 * STUDIOLOGIC MIDI keyboard (model: CMK137)
-* SD Card (2-8Gb formatted as FAT32)
+* SD Card (2-8Gb formatted as FAT32)  
 _Program developed by C/C++._
 
 **Features**  
