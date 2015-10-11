@@ -1,4 +1,4 @@
-# MIDI-recorder-and-player-on-STK500
+## MIDI recorder and player on STK500
 
 Design and implementation of a MIDI recorder and player on Atmel STK500 with ATmega644  
 (other team member: Xiaozhe Shen)
