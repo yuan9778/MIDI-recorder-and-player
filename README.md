@@ -38,3 +38,7 @@ In this menu, user can check the size of each file, delete the file or check the
 * http://www.pjrc.com/tech/8051/ide/fat32.html
  5. AVRDUDE - AVR Downloader/UploaDEr (http://www.nongnu.org/avrdude/)
  6. The Complete MIDI 1.0 Detailed Specification. The MIDI Manufacturers Association, Los Angeles, CA.
+ 
+
+**Viedo demo**
+https://www.youtube.com/watch?v=SnBDLmTtqYg
